@@ -1,5 +1,5 @@
 
-//window.open("http://www.google.es", "Google","heigth=600px, width=600px, menubar=no, resizable=no");
+window.open("http://www.google.es", "Google","heigth=600px, width=600px, menubar=no, resizable=no");
 
 /*if (window.confirm("¿Está seguro que desea continuar?")){
     alert ("El usuario ha decidido continuar");
@@ -27,6 +27,7 @@ location.href="http://www.google.es";
 
 
 */
+/*
 var appCodeName=navigator.appCodename;
 var appName=navigator.appName;
 var appVersion=navigator.appVersion;
@@ -59,4 +60,4 @@ window.setTimeout(window.prompt("Introduce tu nombre"), 9000);
 
 
 
-
+*/
