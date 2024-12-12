@@ -1,5 +1,6 @@
 
-window.open("http://www.google.es", "Google","heigth=600px, width=600px, menubar=no, resizable=no");
+
+window.open("http://www.marca.com", "Marca","heigth=600px, width=600px, menubar=no, resizable=no");
 
 /*if (window.confirm("¿Está seguro que desea continuar?")){
     alert ("El usuario ha decidido continuar");
